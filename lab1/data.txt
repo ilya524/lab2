@@ -1,0 +1,78 @@
+1 2
+2 3
+2 4
+2 5
+3 4
+4 5
+5 6
+
+a1 a2
+a2 a3
+a2 a4
+a2 a5
+a3 a4
+a4 a5
+a5 a6
+
+aa1 aa2
+aa2 aa3 aa4 aa5
+aa3 aa4
+aa4 aa5
+aa5 aa6
+
+и1 и2
+и2 и3 и4 и5
+и3 и4
+и4 и5
+и5 и6
+
+b1 b2
+b1 b3
+b2 b3
+b3 b4
+b4 b5
+b2 b7
+b3 b7
+b7 b6
+b4 b8
+b8 b9
+b9 b5
+
+bb1 bb2 bb3
+bb2 bb3 bb7
+bb3 bb4 bb7
+bb4 bb5 bb8
+bb7 bb6
+bb8 bb9
+bb9 bb5
+
+c6 c1
+c6 c2
+c6 c7
+c7 c2
+c1 c2
+c1 c0
+c2 c0
+c0 c3
+c0 c4
+c3 c4
+c0 c5
+c5 c8
+c8 c9
+c9 c5
+
+d1 d2
+
+e1   e2
+
+  f1
+
+в1 в2
+
+к1   к2
+
+  н1
+
+цикл1 цикл2
+цикл2 цикл3
+цикл3 цикл1
