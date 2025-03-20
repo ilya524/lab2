@@ -115,7 +115,7 @@ public class Source {
 			
 		}
 		else {
-			System.out.println("Неверный номер действия (1-3, 0)");
+			System.out.println("неверный номер действия (1-3, 0)");
 			//in.next();
 		}
 		
